@@ -1,0 +1,57 @@
+   0 cd /
+   1 ls
+   2 ls--help
+   3 ls --help
+   4 lp -a
+   5 ls -a
+   6 ls -l
+   7 lp -a
+   8 cd /
+   9 ls
+  10 cd /home
+  11 ls -a
+  12  cd ..
+  13 cd /home
+  14  mkdir user1
+  15 ls
+  16 cd user1/
+  17 mkdir task1
+  18 ls
+  19 cd task1/
+  20 histori
+  21 history
+  22 touch file.txt
+  23  ls
+  24 cd
+  25 pwd
+  26 tree
+  27 clear
+  28 tree /
+  29 cleer
+  30 tree /home
+  31 ls
+  32 ls /home
+  33 sd
+  34 cd
+  35 mkdir /home/user2/task2
+  36 mkdir --help
+  37 mkdir -p /home/user2/task2
+  38 touch /home/user2/task2/file2.txt
+  39 mkdir -p /home/user2/task2/ivan
+  40 mkdir -p /home/user3 /opt/user1 tmp/user1/task1
+  41 tree /home
+  42 touch /home/user3/file2.txt /opt/user1/file2.txt /tmp/user1/file2.txt
+  43 cleer
+  44 mkdir /tmp/user2/ && touch /tmp/user2/file3.txt
+  45 date
+  46 cp /home/user1/task1/file.txt /
+  47 ls /
+  48 mv /yjvt/user/2/task2/file.txt /var/1.txt
+  49 cleer
+  50 clear
+  51 cp -R /home /opt/
+  52 rm -rf /tmp/user1
+  53 ls /tmp/
+  54 tree
+  55 history
+  56 history >history.txt
